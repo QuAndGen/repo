@@ -22,7 +22,7 @@ https://www.dbdemos.ai/demo-notebooks.html?demoName=llm-dolly-chatbot
 https://github.com/jstray/deepform
 https://github.com/facebookresearch/llama/blob/main/llama/model.py
 https://github.com/gabriben/awesome-generative-information-retrieval
-
+https://colab.research.google.com/drive/1ySQCEIMjVdyeQb_K8aXW1TDvd9UIfViN?usp=sharing#scrollTo=cCCG8uizbKu_
 
 
 # Scaling
