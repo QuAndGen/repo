@@ -23,7 +23,10 @@ https://github.com/jstray/deepform
 https://github.com/facebookresearch/llama/blob/main/llama/model.py
 https://github.com/gabriben/awesome-generative-information-retrieval
 https://colab.research.google.com/drive/1ySQCEIMjVdyeQb_K8aXW1TDvd9UIfViN?usp=sharing#scrollTo=cCCG8uizbKu_
-
+https://github.com/arielnlee/Platypus/blob/main/finetune.py
+https://github.com/sh0416/llama-classification/blob/master/run_preprocess_channel_ag_news.py
+https://shivanandroy.com/fine-tune-t5-transformer-with-pytorch/
+https://github.com/Shivanandroy/T5-Finetuning-PyTorch
 
 # Scaling
 
@@ -41,7 +44,8 @@ https://github.com/zenml-io/zenml/tree/main/examples
 https://wandb.ai/stacey/deepform_v1/reports/DeepForm-Understand-Structured-Documents-at-Scale--VmlldzoyODQ3Njg
 https://github.com/mshumer/gpt-llm-trainer
 https://github.com/rsurendraidexcel/python_book/blob/master/book/Distributed%20Computing%20with%20Python.pdf
-
+https://github.com/tunib-ai/large-scale-lm-tutorials/blob/main/notebooks/01_introduction.ipynb
+https://github.com/maxpumperla/learning_ray
 
 # Deployment
 https://docs.seldon.io/projects/seldon-core/en/latest/examples/azure_aks_deep_mnist.html
